@@ -282,3 +282,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Happy building! 🚀**
 
 > Created with ❤️ by [Data Science Tech](mailto:info@datasciencetech.ca) for rapid MVP development
+
+<!-- Deployment trigger -->
